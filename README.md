@@ -1,4 +1,4 @@
-# Stack-Overflow-Survey-Analysis
+# Stack Overflow Survey Analysis (2019 & 2020)
 
 ## Table of contents
 * [General Information](#general-info)
